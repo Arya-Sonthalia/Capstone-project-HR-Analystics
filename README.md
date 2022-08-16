@@ -14,7 +14,8 @@ I have used python for the Data Analytics and performed EDA to understand the Da
 Univariate analysis,Bivariate analysis,Skewness,Correlation,Removal of unwanted variables,Missing Value treatment,
 Variable transformation,OUTLIERS,KNN imputer,log transformation.
 ## Analysis
-[]()
+[](![image](https://user-images.githubusercontent.com/111356510/184941373-a6dab8b0-7a01-42cc-851d-cb665b1c511c.png)
+)
 ## Modeling
 Linear Regression: R-square train	98.24%
 R-square test	98.38%
