@@ -5,7 +5,7 @@ The given data is of the individuals who have applied in delta Ltd.. The organis
 
 
 ## Need of project
-Indeed it’s very important for organisation to have a policy were in employees are rewarded with salary for their best ability rather than based on human judgement. It creates healthy work environment and shows high the ethical standards of the organisation. Data driven salary package will have accuracy and unbiased offers for the employees.
+Indeed it’s very important for organisation to have a policy were in employees are rewarded with salary for their best ability rather than based on human judgement. It creates healthy work environment and shows high ethical standards of the organisation. Data driven salary package will have accuracy and unbiased offers for the employees.
 ## Visual inspection of Data
 The data consists of 29 columns and 25000 rows.
 ## Tools and Method used for Data Analytics 
