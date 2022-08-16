@@ -13,6 +13,20 @@ I have used python for the Data Analytics and performed EDA to understand the Da
 ## EDA
 Univariate analysis,Bivariate analysis,Skewness,Correlation,Removal of unwanted variables,Missing Value treatment,
 Variable transformation,OUTLIERS,KNN imputer,log transformation.
+## Analysis
+[]()
 ## Modeling
 Linear Regression: R-square train	98.24%
 R-square test	98.38%
+## Final interpretation / recommendation:
+
+	Equalise the salary of employees,steps can be taken for correcting the salary structure. 
+	We can recruit more of Fresher’s and offer them equal salaries based on their educational qualification
+	Recruitment can be focused on all the states equally, for the benefit of the company.
+	We can build a fixed salary structure based on experience, education and certifications.
+	Salary packages should be made data driven rather than human judgements.
+	The current CTC is one variable which impacts the expected CTC of the employees so, must be taken into consideration while creating the salary structure 
+	We do observe the Experience matters a lot and most of the employees who have applied for the job and have experience are expecting higher CTC.
+	Most of the locations are preferred choice of the employee hence do not have major effect on the CTC.
+	Company can think of creating a range of salary or slabs rather than a fixed amount for employees based on their experience and attributes 
+
